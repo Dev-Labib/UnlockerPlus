@@ -49,3 +49,6 @@ For all Android phones, including high-security devices:
 * **License:** MIT License. You are free to share and modify, but please give credit!
 
 **Disclaimer:** I am not responsible for any damage to your device. While this is tested on a rooted Samsung M02, always keep a backup!
+
+**Tags (ignore)**
+magisk module best optimize working  unlock unlocker plus efficient modules download install git github Magisk Module Unlock Unlocker CSC csc working
