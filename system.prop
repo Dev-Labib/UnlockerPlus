@@ -1,0 +1,14 @@
+# Graphics & FPS Unlock
+ro.vendor.display.default_fps=90
+persist.sys.display.refresh_rate=90
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+
+# Device Spoofing (Unlocks settings in games like PUBG)
+ro.product.model=SM-S928B
+ro.product.brand=samsung
+ro.product.manufacturer=samsung
+
+# System Performance
+debug.performance.tuning=1
+video.accelerate.hw=1
+persist.sys.scrolling_cache=2
